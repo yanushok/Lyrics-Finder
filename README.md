@@ -1,1 +1,1 @@
-# Lyrics-Finder (Java Project)
+# Lyrics-Finder (Eclipse Java Project)
